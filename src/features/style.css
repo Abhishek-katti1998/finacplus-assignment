@@ -1,0 +1,16 @@
+.left-positioned-icon {
+  position: absolute;
+  bottom: 10%;
+  right: 5%;
+  cursor: pointer;
+  background-color: white;
+}
+
+.panel-container {
+  /* position: relative; */
+}
+
+.confirm-screen {
+  display: flex;
+  flex-direction: row;
+}
